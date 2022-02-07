@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = yassineberradaamor@gmail.com
+	name = Yassine Berrada Amor
